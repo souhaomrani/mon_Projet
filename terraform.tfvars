@@ -1,7 +1,7 @@
 pm_api_url      = "https://192.168.127.134:8006/api2/json"
 pm_user         = "root"
 pm_password     = "rootroot"
-clone_template  = "template"
+clone_template  = "tmpsouha"
 target_node     = "node"
 target_storage  = "node"
 bridge          = "your-bridge-name"
